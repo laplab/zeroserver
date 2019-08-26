@@ -1,0 +1,12 @@
+[submodule "contrib/cpp_redis"]
+	path = contrib/cpp_redis
+	url = git@github.com:cpp-redis/cpp_redis.git
+[submodule "contrib/spdlog"]
+	path = contrib/spdlog
+	url = git@github.com:gabime/spdlog.git
+[submodule "contrib/magic_enum"]
+	path = contrib/magic_enum
+	url = git@github.com:Neargye/magic_enum.git
+[submodule "contrib/http-parser"]
+	path = contrib/http-parser
+	url = git@github.com:nodejs/http-parser.git
